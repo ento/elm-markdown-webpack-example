@@ -1,0 +1,14 @@
+{
+  "name": "localdoc-frontend",
+  "version": "1.0.0",
+  "description": "Plaintext documentation browser",
+  "author": "ento",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/NoRedInk/localdoc#readme",
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "elm-webpack-loader": "git+https://github.com/rtfeldman/elm-webpack-loader.git",
+    "webpack": "1.12.4"
+  }
+}
