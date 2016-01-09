@@ -1,10 +1,10 @@
 {
-  "name": "localdoc-frontend",
+  "name": "elm-markdown-webpack-example",
   "version": "1.0.0",
-  "description": "Plaintext documentation browser",
+  "description": "Example project that demonstrates a bug in elm-markdown, which should be fixed by now or in the near future.",
   "author": "ento",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/NoRedInk/localdoc#readme",
+  "license": "BSD3",
+  "homepage": "https://github.com/ento/elm-markdown-webpack-example#readme",
   "devDependencies": {
     "babel-core": "^6.4.0",
     "babel-loader": "^6.2.1",
